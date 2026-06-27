@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">An aspiring security engineer</h3> -->
 
 - 📚 Bachelors Degree in **Informatic and Computing Engineering** @**FEUP**
-- 🎓 Currently in the 1st year of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
+- 🎓 Currently in the 2nd year of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
 - 💡 I'm really interested in **Cybersecurity and Networks**
 - 🚀 Looking for ways to enter the industry!
 
